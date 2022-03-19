@@ -1,0 +1,14 @@
+D:\VisualStudioaProject\tuts2\tuts2\bin\Debug\netcoreapp3.1\tuts2.exe
+D:\VisualStudioaProject\tuts2\tuts2\bin\Debug\netcoreapp3.1\tuts2.deps.json
+D:\VisualStudioaProject\tuts2\tuts2\bin\Debug\netcoreapp3.1\tuts2.runtimeconfig.json
+D:\VisualStudioaProject\tuts2\tuts2\bin\Debug\netcoreapp3.1\tuts2.runtimeconfig.dev.json
+D:\VisualStudioaProject\tuts2\tuts2\bin\Debug\netcoreapp3.1\tuts2.dll
+D:\VisualStudioaProject\tuts2\tuts2\bin\Debug\netcoreapp3.1\tuts2.pdb
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.csproj.AssemblyReference.cache
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.AssemblyInfoInputs.cache
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.AssemblyInfo.cs
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.csproj.CoreCompileInputs.cache
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.dll
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.pdb
+D:\VisualStudioaProject\tuts2\tuts2\obj\Debug\netcoreapp3.1\tuts2.genruntimeconfig.cache
